@@ -1,7 +1,7 @@
 # Workshop_04
 Warsztaty IV - JavaScript i jQuery: REST 
 
-Cel warsztatów
+<br>CEL WARSZTATÓW
 
 Celem warsztatów jest napisanie pełnej i funkcjonalnej aplikacji frontendowej do katalogowania książek metodą REST.<br>
 Projekt składa się z dwóch części:<br>
